@@ -1,0 +1,13 @@
+h1 {
+  color: steelblue;
+}
+
+/* <small> is inline element, here it is forced to be block level*/
+small {
+  display: block;
+}
+
+/* <h3> is block element, here it is forced to be inline level*/
+h3 {
+  display: inline;
+}

@@ -2,27 +2,26 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
-section {
-  height: 600px;
-  padding-bottom: 100px;
+.flexible-container {
+  display: flex;
 }
 .top {
   background-image: url(./images/top-banner.png);
   background-repeat: no-repeat;
 }
 .half-width {
-  width: 40%;
-  float: left;
+  width: 50%;
   margin-left: 5%;
   padding-left: 2%;
 }
+/* This will resize the image according to the container size */
 .half-width img {
-  width: 100%;
+  width: 80%;
 }
 h1 {
   font-size: 50px;
 }
-h1 span {
+.orange-text {
   color: orange;
 }
 p {
@@ -47,24 +46,19 @@ h2 {
 }
 
 .end {
-  padding-bottom: 50px;
-  display: block;
   background-image: url("./images/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
-  z-index: -1;
 }
-
-.end h3 {
-  color: orange;
-}
-.end div {
+.experience-item {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 15px;
+  padding-right: 10px;
   box-shadow: 5px 7px 40px gray;
-  height: 60%;
-  z-index: 10;
   background-color: white;
 }
-
 #baby-dev {
   border-left: solid 7px;
   border-image: linear-gradient(salmon, orange);
