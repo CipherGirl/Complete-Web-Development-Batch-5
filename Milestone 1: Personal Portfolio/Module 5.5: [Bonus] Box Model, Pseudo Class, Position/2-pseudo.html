@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=h1, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      h1 {
+        color: royalblue;
+      }
+      h1:hover {
+        color: skyblue;
+        background-color: seagreen;
+        font-weight: 700;
+      }
+      .middle:focus {
+        color: blue;
+        font-weight: bold;
+      }
+      a:visited {
+        color: red;
+      }
+      li:first-child {
+        color: chocolate;
+      }
+      li:last-child {
+        background-color: cornflowerblue;
+      }
+      li:nth-child(2n) {
+        color: crimson;
+      }
+      li:nth-child(2n-1) {
+        background-color: gray;
+      }
+      h3::before {
+        content: "Hello ";
+      }
+      h3::after {
+        content: " Gello ";
+      }
+    </style>
+  </head>
+  <body>
+    <h1>This is normal</h1>
+    <input type="text" />
+    <input class="middle" type="text" />
+    <input type="text" />
+    <br />
+    <h3>middle header - 1</h3>
+    <h3>middle header - 2</h3>
+    <h3>middle header - 3</h3>
+    <h3>middle header - 4</h3>
+    <h3>middle header - 5</h3>
+    <h3>middle header - 6</h3>
+    <a href="https://www.google.com">Google</a>
+    <a href="https://www.fb.com">Facebook</a>
+    <br />
+    <ul>
+      <li>item-1</li>
+      <li>item-2</li>
+      <li>item-3</li>
+      <li>item-4</li>
+      <li>item-5</li>
+      <li>item-6</li>
+    </ul>
+  </body>
+</html>
