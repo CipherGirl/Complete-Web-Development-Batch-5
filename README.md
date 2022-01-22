@@ -4,7 +4,7 @@ Complete Web Development by Jhankar Mahbub Course Notes. (For projects and assig
 
 ## Advices from Jhankar Mahbub
 
-* Don't cry if you have weakness, focus on your strength.
+* Don't cry for your weakness, focus on your strength.
 
 ## 💡 Things that pop up in head while learning and practicing the course contents
 
