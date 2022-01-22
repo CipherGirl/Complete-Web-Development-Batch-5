@@ -1,6 +1,6 @@
 # Complete Web Development: Batch 5 by Programming Hero and Jhankar Mahbub
 
-Complete Web Development by Jhankar Mahbub Course Notes. (For projects and assignments visit: https://github.com/CipherGirl/webdev5-projects-assignments)
+Complete Web Development by Jhankar Mahbub Course Notes. (For projects and assignments visit: <https://github.com/CipherGirl/webdev5-projects-assignments>)
 
 ## Advices from Jhankar Mahbub
 
