@@ -20,9 +20,9 @@
 
 ফেব্রুয়ারি ১৩: মডিউল ২৯: JS built-in objects
 
-ফেব্রুয়ারি ১৪: মডিউল ২৯.৫: Practice/Revision Day  
+ফেব্রুয়ারি ১৪: মডিউল ২৯.৫: Practice/Revision Day
 
-ফেব্রুয়ারি ১৪: রাত ৯.০০: কন্সেপচুয়াল সেশন  
+ফেব্রুয়ারি ১৪: রাত ৯.০০: কন্সেপচুয়াল সেশন
 
 ফেব্রুয়ারি ১৫: এক্সট্রা প্রাকটিস/রিভিশন ডে
 
@@ -32,20 +32,22 @@
 
 ফেব্রুয়ারি ১৮: মাইলস্টোন ৬ (মডিউল ৩১)
 
+### Assignment Marks 56 (Got confused with the requirements)
+
 # Miletone 5: Integrate JavaScript
 
 ## Notes
 
-* 
+-
 
 ## Links
 
-*
+-
 
 ## Topic Discussed in Module
 
-*
+-
 
 ## Things to Explore
 
-*
+-

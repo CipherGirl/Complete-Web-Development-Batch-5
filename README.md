@@ -2,6 +2,12 @@
 
 Complete Web Development by Jhankar Mahbub Course Notes. (For projects and assignments visit: <https://github.com/CipherGirl/webdev5-projects-assignments>)
 
+## Incomplete Module
+
+* Milestone 6 Full Review
+  * Module 35, 36, 37.5
+* Milestone 7
+
 ## Advices from Jhankar Mahbub
 
 * Don't cry for your weakness, focus on your strength.
@@ -13,3 +19,4 @@ Complete Web Development by Jhankar Mahbub Course Notes. (For projects and assig
 * Inline items doesn't have margin/padding top/bottom
 * `Gap` among multiple class selectors selects the nested class elements and `No Gap` among the class selectors selects the elements that has all those classes
 * Use max-width for default padding/margin
+
